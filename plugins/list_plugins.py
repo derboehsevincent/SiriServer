@@ -1,7 +1,7 @@
-#!/usr/bin/python
+./#!/usr/bin/python
 # -*- coding: utf-8 -*-
 #created by nuno12345
-#edited by derboehsevincent - fixed handling for german language
+#edited by derboehsevincent - fixed handling for german language and added sorting
 
 import re,os
 from plugin import *
